@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  framenum: 1
+  jockey: MyString
+  racenum_id: 1
+  place_id: 1
+
+two:
+  name: MyString
+  framenum: 1
+  jockey: MyString
+  racenum_id: 1
+  place_id: 1
